@@ -5,7 +5,7 @@ import json
 from openai import OpenAI
 from tqdm import tqdm
 from huggingface_hub import InferenceClient
-client = InferenceClient(api_key="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")
+client = InferenceClient(api_key="")
 
 df_val = pd.read_csv("/home/mkapadni/work/anlp_project/data/MTL_val.csv")
 print(df_val.shape)
