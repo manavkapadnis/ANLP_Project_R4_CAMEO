@@ -5,7 +5,7 @@ import json
 from openai import OpenAI
 from tqdm import tqdm
 from huggingface_hub import InferenceClient
-client = InferenceClient(api_key="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")
+client = InferenceClient(api_key="")
 
 
 
