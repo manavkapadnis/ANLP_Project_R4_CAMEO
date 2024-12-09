@@ -48,7 +48,7 @@ You can run these Python scripts directly or use the corresponding bash scripts 
    python3 delta_run_3_epochs_skill_before_caption.py
 
 
-Choose the appropriate file within these folders to run the desired task or model. Refer to the individual README files in each subfolder for specific instructions on running each model.
+Choose the appropriate file within these folders to run the desired task or model.
 
 2. **Modify Paths if Necessary**: Update any file paths within the code to match your local environment setup.
 
