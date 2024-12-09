@@ -5,7 +5,7 @@
 ├── src/scripts/delta_run_3_epochs_skill_before_caption.sh      # Bash script for executing MTL baseline: skill-> caption ->vqa
 ├── src/scripts/delta_run_3_epochs.sh                           # Bash script for executing MTL baseline: captin-> skill ->vqa
 ├── src/scripts/delta_run_3_epochs_only_skill_and_vqa.sh        # Bash script for executing MTL baseline: skill->vqa
-├── src/scripts/delta_run_3_epochs_only_vqa.sh                  # Bash script for executing STL vqa
+├── src/scripts/delta_run_3_epochs_only_vqa.sh                  # Bash script for executing vqa task alone
 └── github_url.txt                                              # URL link to the GitHub repository
 ```
 ## Folder details: 
