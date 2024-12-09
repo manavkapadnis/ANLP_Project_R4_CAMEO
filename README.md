@@ -57,7 +57,7 @@ Choose the appropriate file within these folders to run the desired task or mode
 
 3. **Modify Paths if Necessary**: Update any file paths within the code to match your local environment setup.
 
-4. **Modify the Bash Scripts if Needed: Adjust hyperparameters or other settings before execution.
+4. **Modify the Bash Scripts if Needed**: Adjust hyperparameters or other settings before execution.
 
 5. **Execute the Code**: Run the script or notebook to perform the desired task. This can be done directly in your preferred Python environment or Jupyter Notebook.
 
