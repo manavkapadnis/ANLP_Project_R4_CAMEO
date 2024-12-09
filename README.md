@@ -47,12 +47,17 @@ You can run these Python scripts directly or use the corresponding bash scripts 
    cd src
    python3 delta_run_3_epochs_skill_before_caption.py
 
+2. **Running through Bash files:**
+   Navigate to the `src\scripts` directory and execute the desired script:
+   ```bash
+   cd src/scripts
+   bash delta_run_3_epochs_skill_before_caption.sh
 
 Choose the appropriate file within these folders to run the desired task or model.
 
-2. **Modify Paths if Necessary**: Update any file paths within the code to match your local environment setup.
+3. **Modify Paths if Necessary**: Update any file paths within the code to match your local environment setup.
 
-3. **Modify the bash scripts** If needed to adjust hyperparameters or other settings before execution.
+4. **Modify the bash scripts** If needed to adjust hyperparameters or other settings before execution.
 
-4. **Execute the Code**: Run the script or notebook to perform the desired task. This can be done directly in your preferred Python environment or Jupyter Notebook.
+5. **Execute the Code**: Run the script or notebook to perform the desired task. This can be done directly in your preferred Python environment or Jupyter Notebook.
 
